@@ -1,0 +1,91 @@
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\x64\pdfium.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe.config
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.pdb
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\KAPITypes.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.Rendering-gdi.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.RtfRendering-gdi.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfiumViewer.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp-gdi.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp.Charting-gdi.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.License.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.Pdf.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Microsoft.mshtml.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.DocumentObjectModel-gdi.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.Rendering-gdi.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.RtfRendering-gdi.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfiumViewer.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp-gdi.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp.Charting-gdi.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.License.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.Pdf.xml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\nl\PdfiumViewer.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\PdfSharp-gdi.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\PdfSharp.Charting-gdi.resources.dll
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.AssemblyReference.cache
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.SuggestedBindingRedirects.cache
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\MainWindow.g.cs
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\App.g.cs
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_Content.g.cs
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_MarkupCompile.cache
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_MarkupCompile.lref
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\MainWindow.baml
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.g.resources
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer_NET.Framework_4._8_x64.Form1.resources
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer_NET.Framework_4._8_x64.Properties.Resources.resources
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.GenerateResource.cache
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.CoreCompileInputs.cache
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.CopyComplete
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe
+C:\Users\smirnovgv\Desktop\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.pdb
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\x64\pdfium.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe.config
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Pdfium.Viewer NET.Framework 4.8 x64.pdb
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\FontAwesome.Sharp.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.DocumentObjectModel-gdi.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.Rendering-gdi.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.RtfRendering-gdi.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfiumViewer.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp-gdi.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp.Charting-gdi.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.License.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.Pdf.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\System.Drawing.Common.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Microsoft.mshtml.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.DocumentObjectModel-gdi.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.Rendering-gdi.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\MigraDoc.RtfRendering-gdi.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfiumViewer.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp-gdi.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\PdfSharp.Charting-gdi.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.License.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\Spire.Pdf.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\System.Drawing.Common.xml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.Rendering-gdi.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\MigraDoc.RtfRendering-gdi.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\nl\PdfiumViewer.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\PdfSharp-gdi.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\bin\Release\de\PdfSharp.Charting-gdi.resources.dll
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.AssemblyReference.cache
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.SuggestedBindingRedirects.cache
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\MainWindow.g.cs
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\App.g.cs
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_Content.g.cs
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_MarkupCompile.cache
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64_MarkupCompile.lref
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\App.baml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\MainWindow.baml
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.g.resources
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer_NET.Framework_4._8_x64.Form1.resources
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer_NET.Framework_4._8_x64.Properties.Resources.resources
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.GenerateResource.cache
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.CoreCompileInputs.cache
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.csproj.CopyComplete
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.exe
+D:\Pdfium.Viewer NET.Framework 4.8 x64\Pdfium.Viewer NET.Framework 4.8 x64\obj\Release\Pdfium.Viewer NET.Framework 4.8 x64.pdb

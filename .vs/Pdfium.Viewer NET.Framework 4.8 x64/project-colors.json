@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b651200-2bac-4ccd-8383-447abbf501df": {
+      "ProjectGuid": "3b651200-2bac-4ccd-8383-447abbf501df",
+      "DisplayName": "Pdfium.Viewer NET.Framework 4.8 x64",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "8eec5e42-8de6-45ac-95be-e9540154068c": {
+      "ProjectGuid": "8eec5e42-8de6-45ac-95be-e9540154068c",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    },
+    "513da890-5526-4651-816e-0166d8f72852": {
+      "ProjectGuid": "513da890-5526-4651-816e-0166d8f72852",
+      "DisplayName": "Entity_Library",
+      "ColorIndex": 2
+    },
+    "7283fdb3-0135-4f8f-aeda-382589fdd638": {
+      "ProjectGuid": "7283fdb3-0135-4f8f-aeda-382589fdd638",
+      "DisplayName": "EntityFramework",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
